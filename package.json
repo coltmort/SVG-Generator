@@ -1,0 +1,18 @@
+{
+  "name": "svg-generator",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.5"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
